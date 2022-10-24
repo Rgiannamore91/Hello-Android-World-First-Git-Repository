@@ -1,4 +1,5 @@
 <resources>
+    <!--10/24/2022 This is a change I am making for the first git repository project.-->
     <!--changed app name to Hello Android World - Ryan Giannamore-->
     <string name="app_name">Hello Android World</string>
     <string name="action_settings">Settings</string>
